@@ -1,0 +1,32 @@
+PODS:
+  - CoreGPX (0.7.4)
+  - FloatingPanel (1.7.0)
+  - Keyboardy (0.2.6)
+  - Pulsator (0.6.0)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - CoreGPX (~> 0.7.4)
+  - FloatingPanel (~> 1.7.0)
+  - Keyboardy (~> 0.2.6)
+  - Pulsator (~> 0.6.0)
+  - SnapKit (~> 5.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CoreGPX
+    - FloatingPanel
+    - Keyboardy
+    - Pulsator
+    - SnapKit
+
+SPEC CHECKSUMS:
+  CoreGPX: 9927a0158614c4baed08ecdb772fdc24efd92e49
+  FloatingPanel: f686602da8eff56375e577f19be37348a95f4e24
+  Keyboardy: 7c3771ffb379a4c72834f71a621ecc354ddbece2
+  Pulsator: eb5a9f9be4bdcbd19903984c65deca6aabe50a17
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 3a7ff27e587e068e64c9a8bcb3bdbc5475924bcc
+
+COCOAPODS: 1.6.1
