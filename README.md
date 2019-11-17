@@ -24,3 +24,5 @@ We used Open Data datasets to retrieve current bus stops and get information abo
 In src folder there is a source code of crowd counting NN (forked from https://github.com/svishwa/crowdcount-cascaded-mtl). 
 
 In VRP folder there is a code of optimizing the vehicle path using Google OP-Tools 
+
+In iOS folder you can find iOS app source code
